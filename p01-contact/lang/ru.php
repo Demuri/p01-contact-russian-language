@@ -1,7 +1,7 @@
 <?php
 /**
  * Russian language file
- * @author Stanislav Ulver (get-simple.it)
+ * @author Demuri Celidze (demuri.lv)
  * @package p01-contact
  */
 $p01contact_lang = array(
